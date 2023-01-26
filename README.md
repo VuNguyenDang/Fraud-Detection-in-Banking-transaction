@@ -1,5 +1,8 @@
 # Fraud-Detection-in-Banking-transaction
 
+### Markov Process
+<img width="625" alt="Markov Process" src="https://user-images.githubusercontent.com/112948322/214903394-fdf4c61c-9c99-4ba0-b06c-78d5d20c55bd.png">
+
 ### Generate dataset
 ![Generate dataset](https://user-images.githubusercontent.com/112948322/214901793-7ca8fd90-835d-4fce-9fee-2e898ba2d764.png)
 
